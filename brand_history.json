@@ -1,0 +1,76 @@
+{
+  "Raymonds": {
+    "brand_tone": [
+      "Sophisticated",
+      "Aspirational",
+      "Elegant",
+      "Warm",
+      "Authoritative"
+    ],
+    "vocabulary_style": "Elevated, classic, and premium with a focus on craftsmanship, heritage, and character (e.g., 'worsted wool', 'integrity', 'sophistication', 'gentleman').",
+    "sentence_structure": "A balanced mix of medium-to-long rhythmic sentences establishing heritage and emotion, paired with short, punchy fragment statements for brand taglines and emphasis.",
+    "emotional_appeal": "Aspirational dignity, quiet luxury, trust, and refined confidence centered around the identity of 'The Complete Man'.",
+    "formatting_preferences": "Traditional and formal prose using standard punctuation (semicolons, periods for rhetorical emphasis); completely avoids emojis, bullet points, or informal punctuation.",
+    "do_list": [
+      "Emphasize legacy, fine craftsmanship, and premium material quality through rich, elevated language.",
+      "Connect physical product quality to personal values like integrity, compassion, and effortless style.",
+      "Incorporate memorable, evocative short statements and slogans to build emotional resonance."
+    ],
+    "dont_list": [
+      "Avoid modern slang, casual abbreviations, or overly informal conversational phrasing.",
+      "Do not use emojis, exclamations, or flashy modern visual formatting.",
+      "Avoid describing features in purely technical terms without grounding them in emotion or prestige."
+    ],
+    "nlp_metrics": {
+      "total_words": 79,
+      "unique_words": 62,
+      "top_keywords": [
+        [
+          "raymond",
+          2
+        ],
+        [
+          "crafted",
+          2
+        ],
+        [
+          "perfection",
+          2
+        ],
+        [
+          "feels",
+          2
+        ],
+        [
+          "like",
+          2
+        ],
+        [
+          "elegance",
+          1
+        ],
+        [
+          "isnt",
+          1
+        ],
+        [
+          "just",
+          1
+        ],
+        [
+          "look",
+          1
+        ],
+        [
+          "make",
+          1
+        ]
+      ],
+      "avg_word_length": 5.67
+    },
+    "raw_samples": [
+      "Elegance isn\u2019t just about how you look; it\u2019s about how you make people feel. For nearly a century, Raymond has crafted fine fabrics engineered for the gentleman who leads with integrity, compassion, and effortless style. Step into tailor-made perfection with our signature worsted wool collection. Designed for life\u2019s most meaningful moments.",
+      "The Complete Man. Feels like heaven, feels like Raymond. Crafted with timeless perfection, unmatched comfort, and superior sophistication. Tailored for those who value tradition while shaping the future."
+    ]
+  }
+}
